@@ -1,0 +1,28 @@
+# Compilados
+*.ko
+*.o
+*.mod.c
+*.mod.o
+*.order
+*.symvers
+*.cmd
+Module.symvers
+modules.order
+modules.builtin
+.tmp_versions/
+.*.cmd
+*.mod
+
+# Backup
+*~
+*.swp
+*.swo
+*.bak
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Módulo
+mt7601u.ko
