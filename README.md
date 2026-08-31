@@ -4,7 +4,7 @@ Driver para adaptadores WiFi USB con chipset **MediaTek MT7601U** (ID USB: `148f
 
 ## 📋 Requisitos
 
-- Linux (kernel 5.x, 6.x o 7.x)
+- Probado en 7.0.0-30-generic
 - Headers del kernel: `linux-headers-$(uname -r)`
 - Compilador GCC y herramientas de build
 
